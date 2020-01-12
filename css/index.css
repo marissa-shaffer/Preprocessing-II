@@ -172,8 +172,8 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 2%;
-  padding-bottom: 2%;
+  margin-top: 4%;
+  padding-bottom: 4%;
   border-bottom: 2px dashed lightgrey;
 }
 .navigation nav {
@@ -183,6 +183,7 @@ img {
   text-decoration: none;
   color: black;
   font-size: 175%;
+  padding-left: 10%;
 }
 .footer {
   width: 100%;
