@@ -249,7 +249,7 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
-.btn {
+.home .btn {
   border-radius: 10px;
   padding: 4%;
   color: #FFFFFF;
@@ -259,6 +259,6 @@ img {
   width: 80%;
   height: 15%;
 }
-.btn:hover {
+.home .btn:hover {
   background-color: #212529;
 }
