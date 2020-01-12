@@ -1,1 +1,15 @@
 // Mixins in here
+.button (@radius:10px; @textpadding:4%; @textsize:200%;) {
+    border-radius:@radius;
+    padding:@textpadding;
+    color: @white;
+    font-size:@textsize;
+    text-align:center;
+    width:80%;
+    height:15%;
+    background-color:@button-bg;
+}
+
+.btn{
+    .button();
+}
